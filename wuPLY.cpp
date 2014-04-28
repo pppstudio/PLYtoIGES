@@ -38,9 +38,9 @@ CwuPLY::CwuPLY(){
 	// IGESèÓïÒÇÃèâä˙âª
 	iges.DelimChar				= "1H,";
 	iges.EndDelimChar			= "1H;";
-	iges.Softname				= "Westunitis IGES Maker";
-	iges.Filename				= "WU IGES";
-	iges.SystemID				= "Westunitis - www.westunitis.co.jp";
+	iges.Softname				= "IGES Maker";
+	iges.Filename				= "IGES";
+	iges.SystemID				= "pppStudio - ppp.momichan.net";
 	iges.AnsiStdVer				= "4HV5.0";
 	iges.IntNumBits				= 32;
 	iges.IndexNumBitsSingle		= 75;
@@ -57,7 +57,7 @@ CwuPLY::CwuPLY(){
 	iges.MinResolution			= 0.001;
 	iges.MaxCoordinate			= 100;
 	iges.AuthorName				= "2HShinMakinaga";
-	iges.OrganizationName		= "8HWestunitis";
+	iges.OrganizationName		= "8HpppStudio";
 	iges.IgesVer				= 11;
 	iges.ReferenceCode			= 7;
 	iges.ModelCreateDate		= iges.FileCreateDate;
